@@ -1,0 +1,2 @@
+# MicroPython-esp32-mpu6050
+在esp32上使用MicroPython完成配网，读取mpu6050的数据，简单处理后将数据上传到服务器
